@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+langchain
+pydantic
+python-dotenv
+pymongo
+mysql-connector-python
+matplotlib
+pandas
